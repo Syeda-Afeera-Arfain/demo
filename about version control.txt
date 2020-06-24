@@ -1,0 +1,6 @@
+ Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
+
+Use of Version Control System:
+
+1)A repository: It can be thought as a database of changes. It contains all the edits and historical versions (snapshots) of the project.
+2)Copy of Work (sometimes called as checkout): It is the personal copy of all the files in a project. You can edit to this copy, without affecting the work of others and you can finally commit your changes to a repository when you are done making your changes.
